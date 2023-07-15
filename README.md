@@ -1,24 +1,11 @@
-# README
+There are restaurants
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You've to store the food items that can be sold at the restaurant.
 
-Things you may want to cover:
+You also have to store how those food items are shown in the menu card
 
-* Ruby version
+Food items can be food / drink / combo
 
-* System dependencies
+combo is made up of one or more food items.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You should be able to mark the food item available / unavailable, in stock / sold out

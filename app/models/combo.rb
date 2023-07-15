@@ -1,0 +1,2 @@
+class Combo < FoodItem
+end
